@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="수업">
+      <UniqueIdentifier>{55a0fbbe-3f07-407e-9737-1fbfe14cac75}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="학점.cpp">
@@ -92,6 +95,48 @@
     </ClCompile>
     <ClCompile Include="6장 연습문제 2.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스16.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스19.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스20.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스21.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스22.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스23.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스24.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스25.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스26.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="소스27.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="소스28.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="소스30.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 1.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="8장 2.cpp">
+      <Filter>수업</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
