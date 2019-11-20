@@ -138,5 +138,8 @@
     <ClCompile Include="8장 2.cpp">
       <Filter>수업</Filter>
     </ClCompile>
+    <ClCompile Include="12주차1.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

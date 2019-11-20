@@ -8,7 +8,6 @@ int main(void)
 
 	char *b = &a;
 
-	printf("변수 a의 주소 = %u, 코드(ASCII)값 = %d, 문자 = %c\n", (unsigned)& a, a, a);
 
 	printf("변수 a의 주소 = %u, 코드(ASCII)값 = %d, 문자 = %c\n", b, *b, *b);
 
